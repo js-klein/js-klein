@@ -3,9 +3,6 @@
 - 📫 Personal email: please use PGP
 - 📫 Professional email: no PGP requested
 
-
-
-
 **PGP Public Key fingerprint:** DB39 175F 5CA8 3513 8EB6  39B0 C985 F2C3 59B8 99EC
 
 <!---
